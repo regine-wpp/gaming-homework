@@ -1,6 +1,5 @@
 # The Lost Labyrinth of Mars
-
-A small Python/Pygame exploration and choice-driven adventure set in a fictional Martian labyrinth. Navigate an astronaut around Mars, investigate randomly selected story encounters from a CSV dataset, collect crystals and artifacts, and manage health and oxygen to escape.
+go through mars in my bad game
 
 | Key | Action |
 | --- | --- |
