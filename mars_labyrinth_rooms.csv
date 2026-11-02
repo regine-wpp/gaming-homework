@@ -1,0 +1,51 @@
+room_id,room_name,region,room_type,difficulty,oxygen_cost,crystal_reward,oxygen_restore,description
+1,Buried Supply Vault 1,Lava Tubes,Treasure,4,12,28,0,A glimmer from the lava tubes points toward a hidden crystal stash.
+2,Three-Symbol Gate 2,Ice Caves,Puzzle,1,5,16,0,A locked mechanism in the ice caves hums with unfamiliar symbols.
+3,Unstable Bridge 3,Ice Caves,Hazard,3,16,15,0,The ice caves shift unexpectedly; the path ahead looks risky.
+4,Hidden Observatory 4,Red Dust Tunnels,Discovery,2,8,17,0,A forgotten clue in the red dust tunnels hints at an older Martian mystery.
+5,Solar Charging Alcove 5,Crystal Caverns,Rest,1,0,0,12,A protected chamber in the crystal caverns has breathable air and a quiet place to recover.
+6,Lost Rover Cargo 6,Lava Tubes,Treasure,4,12,24,0,A glimmer from the lava tubes points toward a hidden crystal stash.
+7,Pressure Plate Hall 7,Lava Tubes,Puzzle,3,7,25,0,A locked mechanism in the lava tubes hums with unfamiliar symbols.
+8,Unstable Bridge 8,Lava Tubes,Hazard,5,20,20,0,The lava tubes shift unexpectedly; the path ahead looks risky.
+9,Star Map Room 9,Red Dust Tunnels,Discovery,5,9,17,0,A forgotten clue in the red dust tunnels hints at an older Martian mystery.
+10,Solar Charging Alcove 10,Crystal Caverns,Rest,1,0,0,12,A protected chamber in the crystal caverns has breathable air and a quiet place to recover.
+11,Buried Supply Vault 11,Ancient Ruins,Treasure,2,7,26,0,A glimmer from the ancient ruins points toward a hidden crystal stash.
+12,Orbit Dial 12,Abandoned Outpost,Puzzle,1,8,14,0,A locked mechanism in the abandoned outpost hums with unfamiliar symbols.
+13,Cracked Dome 13,Lava Tubes,Hazard,5,21,16,0,The lava tubes shift unexpectedly; the path ahead looks risky.
+14,Unknown Footprints 14,Abandoned Outpost,Discovery,4,9,15,0,A forgotten clue in the abandoned outpost hints at an older Martian mystery.
+15,Warm Airlock 15,Red Dust Tunnels,Rest,1,0,0,16,A protected chamber in the red dust tunnels has breathable air and a quiet place to recover.
+16,Buried Supply Vault 16,Crystal Caverns,Treasure,5,8,35,0,A glimmer from the crystal caverns points toward a hidden crystal stash.
+17,Signal Lock 17,Crystal Caverns,Puzzle,2,11,22,0,A locked mechanism in the crystal caverns hums with unfamiliar symbols.
+18,Low-Oxygen Corridor 18,Ancient Ruins,Hazard,3,16,12,0,The ancient ruins shift unexpectedly; the path ahead looks risky.
+19,Hidden Observatory 19,Crystal Caverns,Discovery,1,6,11,0,A forgotten clue in the crystal caverns hints at an older Martian mystery.
+20,Solar Charging Alcove 20,Ancient Ruins,Rest,1,0,0,20,A protected chamber in the ancient ruins has breathable air and a quiet place to recover.
+21,Crystal Cache 21,Crystal Caverns,Treasure,3,10,22,0,A glimmer from the crystal caverns points toward a hidden crystal stash.
+22,Orbit Dial 22,Ice Caves,Puzzle,3,8,25,0,A locked mechanism in the ice caves hums with unfamiliar symbols.
+23,Low-Oxygen Corridor 23,Ancient Ruins,Hazard,1,10,12,0,The ancient ruins shift unexpectedly; the path ahead looks risky.
+24,Ancient Mural 24,Ice Caves,Discovery,2,7,16,0,A forgotten clue in the ice caves hints at an older Martian mystery.
+25,Safe Landing Pod 25,Red Dust Tunnels,Rest,1,0,0,24,A protected chamber in the red dust tunnels has breathable air and a quiet place to recover.
+26,Glittering Geode 26,Crystal Caverns,Treasure,4,12,24,0,A glimmer from the crystal caverns points toward a hidden crystal stash.
+27,Echo Chamber 27,Ice Caves,Puzzle,1,9,15,0,A locked mechanism in the ice caves hums with unfamiliar symbols.
+28,Dustfall Passage 28,Ancient Ruins,Hazard,2,17,12,0,The ancient ruins shift unexpectedly; the path ahead looks risky.
+29,Ancient Mural 29,Ancient Ruins,Discovery,3,6,14,0,A forgotten clue in the ancient ruins hints at an older Martian mystery.
+30,Solar Charging Alcove 30,Crystal Caverns,Rest,1,0,0,16,A protected chamber in the crystal caverns has breathable air and a quiet place to recover.
+31,Starlight Deposit 31,Ice Caves,Treasure,5,11,28,0,A glimmer from the ice caves points toward a hidden crystal stash.
+32,Echo Chamber 32,Lava Tubes,Puzzle,3,9,18,0,A locked mechanism in the lava tubes hums with unfamiliar symbols.
+33,Unstable Bridge 33,Red Dust Tunnels,Hazard,2,14,14,0,The red dust tunnels shift unexpectedly; the path ahead looks risky.
+34,Strange Radio Beacon 34,Crystal Caverns,Discovery,4,9,20,0,A forgotten clue in the crystal caverns hints at an older Martian mystery.
+35,Safe Landing Pod 35,Crystal Caverns,Rest,1,0,0,20,A protected chamber in the crystal caverns has breathable air and a quiet place to recover.
+36,Starlight Deposit 36,Ancient Ruins,Treasure,1,5,16,0,A glimmer from the ancient ruins points toward a hidden crystal stash.
+37,Echo Chamber 37,Ice Caves,Puzzle,5,13,25,0,A locked mechanism in the ice caves hums with unfamiliar symbols.
+38,Dustfall Passage 38,Crystal Caverns,Hazard,3,16,12,0,The crystal caverns shift unexpectedly; the path ahead looks risky.
+39,Unknown Footprints 39,Ice Caves,Discovery,4,7,17,0,A forgotten clue in the ice caves hints at an older Martian mystery.
+40,Solar Charging Alcove 40,Crystal Caverns,Rest,1,0,0,12,A protected chamber in the crystal caverns has breathable air and a quiet place to recover.
+41,Starlight Deposit 41,Red Dust Tunnels,Treasure,1,8,23,0,A glimmer from the red dust tunnels points toward a hidden crystal stash.
+42,Pressure Plate Hall 42,Ice Caves,Puzzle,1,6,16,0,A locked mechanism in the ice caves hums with unfamiliar symbols.
+43,Cracked Dome 43,Crystal Caverns,Hazard,1,14,12,0,The crystal caverns shift unexpectedly; the path ahead looks risky.
+44,Unknown Footprints 44,Ice Caves,Discovery,3,8,18,0,A forgotten clue in the ice caves hints at an older Martian mystery.
+45,Oxygen Refill Station 45,Ice Caves,Rest,1,0,0,16,A protected chamber in the ice caves has breathable air and a quiet place to recover.
+46,Forgotten Storage Bay 46,Crystal Caverns,Treasure,3,7,29,0,A glimmer from the crystal caverns points toward a hidden crystal stash.
+47,Signal Lock 47,Lava Tubes,Puzzle,3,10,25,0,A locked mechanism in the lava tubes hums with unfamiliar symbols.
+48,Shifting Sand Pit 48,Ice Caves,Hazard,2,16,10,0,The ice caves shift unexpectedly; the path ahead looks risky.
+49,Fossil Gallery 49,Crystal Caverns,Discovery,1,5,9,0,A forgotten clue in the crystal caverns hints at an older Martian mystery.
+50,Oxygen Refill Station 50,Ancient Ruins,Rest,1,0,0,12,A protected chamber in the ancient ruins has breathable air and a quiet place to recover.

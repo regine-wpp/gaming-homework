@@ -1,4 +1,32 @@
+
+# macOS files
 .DS_Store
+
+# Virtual environments
+.venv/
 venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# API credentials and private keys
 keys/
-.ipnyb_checkpoints/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Generated music
+generated_music/
+
+# Private Lyria API testing notebook
+curl_test.ipynb
+
+gametings_backup.py
+gametings_old.py
+gametings_before_*.py
